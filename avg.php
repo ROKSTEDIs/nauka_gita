@@ -4,5 +4,5 @@ function avg(a,b)
 }
 function avg_warzona(a,b,c)
 {
-	return (a+b+c)/3;
+	return (a+b+n)/3;
 }
